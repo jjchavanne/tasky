@@ -21,7 +21,8 @@ jobs:
         uses: aquasecurity/trivy-action@0.20.0
         with:
           image-ref: 'docker.io/${{ vars.REGISTRY }}/${{ vars.IMAGE_NAME}}:latest'
-          format: 'table'
+          format: 'sarif'
+          output: 'trivy-results.sarif'
           exit-code: '0'
           ignore-unfixed: true
           vuln-type: 'os,library'
