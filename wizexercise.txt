@@ -1,14 +1,14 @@
                       
-                  ⣿⣿⣦    ⣤⣿⠇
-                   ⣴⣿⣿⣦⣿⡏⠇
-                ⣤⣤⣿⣿⣿⣿⣿⣿⣦
-                  ⣿⣿⣿⣿⣿⣿⣦⣦⣤
+                  ⠟⣿⣦    ⣤⣿⠇
+                   ⣿⣿⣿⣦⣿⣿⠇
+                ⣤⣾⣿⣿⣿⣿⣿⣿⣦
+                  ⣿⣿⣿⣿⣿⣿⣿⣦⣤
                 ⣾⣿⡿  ⣿⣿⠇
               ⣾⣿⡿    
             ⣾⣿⡿         "... on a mission to help organizations
           ⣾⣿⠟            create secure cloud environments
-       ⣾⣿⠟               that accelerate their businesses."
-     ⣾⣿⠟            
-   ⣾⣿⠟             
- ⠛⠋
+        ⣾⣿⠟               that accelerate their businesses."
+      ⣾⣿⠟            
+    ⣾⣿⠟             
+   ⠛⠋
 
